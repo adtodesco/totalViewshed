@@ -10,4 +10,4 @@ Running the program:
 
 1.  Use the Makefile to compile the code (NOTE: you will have to change the compiler in the make file to the path of "mpic++" on your machine).  
 
-2.  Execute the program but using the folloing syntax <path to openMPI>/mpirun -np 10 totalViewshed sampleDEM.asc outputDEM.asc
+2.  Execute the program using the folloing syntax <path to openMPI>/mpirun -np 10 totalViewshed sampleDEM.asc outputDEM.asc
